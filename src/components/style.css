@@ -1,0 +1,87 @@
+
+
+.nav--icon {
+    align-content: left;
+    height: 65px;
+}
+
+.nav--title {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 50px;
+    padding: 10px 10px;
+    color: #79C7C5
+}
+
+.nav--title--desc {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 30px;
+    padding: 10px 30px;
+    color: #79C7C5
+}
+.nav--title {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 50px;
+    padding: 10px 10px;
+}
+.nav_bar {
+    display: flex;
+    align-items: center;
+    background-color: #2F3E46; 
+    padding: 10px 10px;
+    height: 70px;
+    margin: 0px;
+
+}
+
+
+body {
+    background-color: #79C7C5;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    height: 100vh;
+    padding: 1px 1px;
+}
+
+.body-container{
+    display: flex;
+    align-items: top;
+    background-color: #2F3E46; 
+    padding: 10px 10px;
+    height: 100%;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 20px;
+    padding: 10px 10px;
+    margin: 0;
+    background-image: url('../images/logo512.png');
+    background-repeat: no-repeat;
+    background-position-x: 146%;
+    background-position-y: 50%;
+    background-blend-mode: soft-light;
+    
+
+}
+
+.img--opacity-light{
+    opacity: 0.1;
+}
+
+.body--title {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 30px;
+    padding: 10px 30px;
+    color: #79C7C5;
+    text-align: left;
+}
+
+.body--text {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    text-align: left;
+    font-size: 22px;
+    padding: 10px 10px;
+    color: #79C7C5;
+}
+
+li::marker {
+    color:#79C7C5;
+    font-size: 1.4rem;
+}
+
